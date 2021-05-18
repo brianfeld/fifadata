@@ -51,101 +51,54 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 27100,24-06-1958 (19:00 h),,Mervyn Griffiths (WAL),"RÃ¥sunda (Solna, Stockholm)",50, 1/2 FINAL,Brazil,France,1958_SWEDEN_FS.htm
 32482,28-06-1958 (17:00 h),,Juan Regis Brozzi (ARG),Nya Ullevi (GÃ¶teborg),51, PLACES 3-4,France,FRG,1958_SWEDEN_FS.htm
 49737,29-06-1958 (15:00 h),,Maurice Guigue (FRA),"RÃ¥sunda (Solna, Stockholm)",52, FINAL,Brazil,Sweden,1958_SWEDEN_FS.htm
-95000,13-06-1982 (20:00 h),,VojtÄch Christov (CZE),Camp Nou (Barcelona),53,"GROUP STAGE (FIRST
-          ROUND)",Argentina,Belgium,1982_SPAIN_FS.htm
-22000,14-06-1982 (17:15 h),,Michel Vautrot (FRA),BalaÃ­dos (Vigo),54,"GROUP STAGE (FIRST
-          ROUND)",Italy,Poland,1982_SPAIN_FS.htm
-50000,14-06-1982 (21:00 h),,Augusto Lamo Castillo (SPA),RamÃ³n SÃ¡nchez PizjuÃ¡n (Sevilla),55,"GROUP STAGE (FIRST
-          ROUND)",Brazil,Soviet Union,1982_SPAIN_FS.htm
-15000,15-06-1982 (17:15 h),,Franz WÃ¶hrer (AUT),Riazor (La CoruÃ±a),56,"GROUP STAGE (FIRST
-          ROUND)",Peru,Cameroon,1982_SPAIN_FS.htm
-23000,15-06-1982 (21:00 h),,Ibrahim Al-Doy (BHR),Nuevo Estadio (Elche),57,"GROUP STAGE (FIRST
-          ROUND)",Hungary,El Salvador,1982_SPAIN_FS.htm
-22000,15-06-1982 (21:00 h),,David Socha (USA),La Rosaleda (MÃ¡laga),58,"GROUP STAGE (FIRST
-          ROUND)",Scotland,New Zealand,1982_SPAIN_FS.htm
-25000,16-06-1982 (17:15 h),,Enrique LabÃ³ (PER),El MolinÃ³n (GijÃ³n),59,"GROUP STAGE (FIRST
-          ROUND)",FRG,Algeria,1982_SPAIN_FS.htm
-44172,16-06-1982 (17:15 h),,AntÃ³nio JosÃ© da Silva Garrido (POR),San MamÃ©s (Bilbao),60,"GROUP STAGE (FIRST
-          ROUND)",England,France,1982_SPAIN_FS.htm
-49562,16-06-1982 (21:00 h),,Arturo AndrÃ©s Iturralde (ARG),Luis Casanova (Valencia),61,"GROUP STAGE (FIRST
-          ROUND)",Spain,Honduras,1982_SPAIN_FS.htm
-22000,17-06-1982 (17:15 h),,Juan Daniel Cardellino (URU),Carlos Tartiere (Oviedo),62,"GROUP STAGE (FIRST
-          ROUND)",Chile,Austria,1982_SPAIN_FS.htm
-12000,17-06-1982 (17:15 h),,Benjamin Dwomoh (GHA),Nuevo JosÃ© Zorrilla (Valladolid),63,"GROUP STAGE (FIRST
-          ROUND)",Czechoslovakia,Kuwait,1982_SPAIN_FS.htm
-18000,17-06-1982 (21:00 h),,Erik Fredriksson (SWE),La Romareda (Zaragoza),64,"GROUP STAGE (FIRST
-          ROUND)",Yugoslavia,Northern Ireland,1982_SPAIN_FS.htm
-25000,18-06-1982 (17:15 h),,Walter Eschweiler (FRG),BalaÃ­dos (Vigo),65,"GROUP STAGE (FIRST
-          ROUND)",Italy,Peru,1982_SPAIN_FS.htm
-32093,18-06-1982 (21:00 h),,BelaÃ¯d Lacarne (ALG),JosÃ© Rico PÃ©rez (Alicante),66,"GROUP STAGE (FIRST
-          ROUND)",Argentina,Hungary,1982_SPAIN_FS.htm
-47379,18-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Benito VillamarÃ­n (Sevilla),67,"GROUP STAGE (FIRST
-          ROUND)",Brazil,Scotland,1982_SPAIN_FS.htm
-12000,19-06-1982 (17:15 h),,Alexis Ponnet (BEL),Riazor (La CoruÃ±a),68,"GROUP STAGE (FIRST
-          ROUND)",Poland,Cameroon,1982_SPAIN_FS.htm
-6000,19-06-1982 (21:00 h),,Malcolm Moffatt (NIR),Nuevo Estadio (Elche),69,"GROUP STAGE (FIRST
-          ROUND)",Belgium,El Salvador,1982_SPAIN_FS.htm
-17000,19-06-1982 (21:00 h),,Yousef el-Ghoul (LYB),La Rosaleda (MÃ¡laga),70,"GROUP STAGE (FIRST
-          ROUND)",Soviet Union,New Zealand,1982_SPAIN_FS.htm
-40000,20-06-1982 (17:15 h),,Bruno Galler (SWI),El MolinÃ³n (GijÃ³n),71,"GROUP STAGE (FIRST
-          ROUND)",FRG,Chile,1982_SPAIN_FS.htm
-44182,20-06-1982 (17:15 h),,Charles Corver (NED),San MamÃ©s (Bilbao),72,"GROUP STAGE (FIRST
-          ROUND)",England,Czechoslovakia,1982_SPAIN_FS.htm
-47500,20-06-1982 (21:00 h),,Henning Lund-SÃ¸rensen (DEN),Luis Casanova (Valencia),73,"GROUP STAGE (FIRST
-          ROUND)",Spain,Yugoslavia,1982_SPAIN_FS.htm
-22000,21-06-1982 (17:15 h),,Tony BoÅ¡koviÄ (AUS),Carlos Tartiere (Oviedo),74,"GROUP STAGE (FIRST
-          ROUND)",Algeria,Austria,1982_SPAIN_FS.htm
-30043,21-06-1982 (17:15 h),,Miroslav Stupar (USSR),Nuevo JosÃ© Zorrilla (Valladolid),75,"GROUP STAGE (FIRST
-          ROUND)",France,Kuwait,1982_SPAIN_FS.htm
-15000,21-06-1982 (21:00 h),,Chan Tam-Sun (HKG),La Romareda (Zaragoza),76,"GROUP STAGE (FIRST
-          ROUND)",Honduras,Northern Ireland,1982_SPAIN_FS.htm
-16000,22-06-1982 (17:15 h),,Mario Rubio (MEX),Riazor (La CoruÃ±a),77,"GROUP STAGE (FIRST
-          ROUND)",Poland,Peru,1982_SPAIN_FS.htm
-22000,22-06-1982 (21:00 h),,Clive White (ENG),Nuevo Estadio (Elche),78,"GROUP STAGE (FIRST
-          ROUND)",Belgium,Hungary,1982_SPAIN_FS.htm
-30000,22-06-1982 (21:00 h),,Nicolae Rainea (ROM),La Rosaleda (MÃ¡laga),79,"GROUP STAGE (FIRST
-          ROUND)",Soviet Union,Scotland,1982_SPAIN_FS.htm
+95000,13-06-1982 (20:00 h),,VojtÄch Christov (CZE),Camp Nou (Barcelona),53,GROUP STAGE (FIRST ROUND),Argentina,Belgium,1982_SPAIN_FS.htm
+22000,14-06-1982 (17:15 h),,Michel Vautrot (FRA),BalaÃ­dos (Vigo),54,GROUP STAGE (FIRST ROUND),Italy,Poland,1982_SPAIN_FS.htm
+50000,14-06-1982 (21:00 h),,Augusto Lamo Castillo (SPA),RamÃ³n SÃ¡nchez PizjuÃ¡n (Sevilla),55,GROUP STAGE (FIRST ROUND),Brazil,Soviet Union,1982_SPAIN_FS.htm
+15000,15-06-1982 (17:15 h),,Franz WÃ¶hrer (AUT),Riazor (La CoruÃ±a),56,GROUP STAGE (FIRST ROUND),Peru,Cameroon,1982_SPAIN_FS.htm
+23000,15-06-1982 (21:00 h),,Ibrahim Al-Doy (BHR),Nuevo Estadio (Elche),57,GROUP STAGE (FIRST ROUND),Hungary,El Salvador,1982_SPAIN_FS.htm
+22000,15-06-1982 (21:00 h),,David Socha (USA),La Rosaleda (MÃ¡laga),58,GROUP STAGE (FIRST ROUND),Scotland,New Zealand,1982_SPAIN_FS.htm
+25000,16-06-1982 (17:15 h),,Enrique LabÃ³ (PER),El MolinÃ³n (GijÃ³n),59,GROUP STAGE (FIRST ROUND),FRG,Algeria,1982_SPAIN_FS.htm
+44172,16-06-1982 (17:15 h),,AntÃ³nio JosÃ© da Silva Garrido (POR),San MamÃ©s (Bilbao),60,GROUP STAGE (FIRST ROUND),England,France,1982_SPAIN_FS.htm
+49562,16-06-1982 (21:00 h),,Arturo AndrÃ©s Iturralde (ARG),Luis Casanova (Valencia),61,GROUP STAGE (FIRST ROUND),Spain,Honduras,1982_SPAIN_FS.htm
+22000,17-06-1982 (17:15 h),,Juan Daniel Cardellino (URU),Carlos Tartiere (Oviedo),62,GROUP STAGE (FIRST ROUND),Chile,Austria,1982_SPAIN_FS.htm
+12000,17-06-1982 (17:15 h),,Benjamin Dwomoh (GHA),Nuevo JosÃ© Zorrilla (Valladolid),63,GROUP STAGE (FIRST ROUND),Czechoslovakia,Kuwait,1982_SPAIN_FS.htm
+18000,17-06-1982 (21:00 h),,Erik Fredriksson (SWE),La Romareda (Zaragoza),64,GROUP STAGE (FIRST ROUND),Yugoslavia,Northern Ireland,1982_SPAIN_FS.htm
+25000,18-06-1982 (17:15 h),,Walter Eschweiler (FRG),BalaÃ­dos (Vigo),65,GROUP STAGE (FIRST ROUND),Italy,Peru,1982_SPAIN_FS.htm
+32093,18-06-1982 (21:00 h),,BelaÃ¯d Lacarne (ALG),JosÃ© Rico PÃ©rez (Alicante),66,GROUP STAGE (FIRST ROUND),Argentina,Hungary,1982_SPAIN_FS.htm
+47379,18-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Benito VillamarÃ­n (Sevilla),67,GROUP STAGE (FIRST ROUND),Brazil,Scotland,1982_SPAIN_FS.htm
+12000,19-06-1982 (17:15 h),,Alexis Ponnet (BEL),Riazor (La CoruÃ±a),68,GROUP STAGE (FIRST ROUND),Poland,Cameroon,1982_SPAIN_FS.htm
+6000,19-06-1982 (21:00 h),,Malcolm Moffatt (NIR),Nuevo Estadio (Elche),69,GROUP STAGE (FIRST ROUND),Belgium,El Salvador,1982_SPAIN_FS.htm
+17000,19-06-1982 (21:00 h),,Yousef el-Ghoul (LYB),La Rosaleda (MÃ¡laga),70,GROUP STAGE (FIRST ROUND),Soviet Union,New Zealand,1982_SPAIN_FS.htm
+40000,20-06-1982 (17:15 h),,Bruno Galler (SWI),El MolinÃ³n (GijÃ³n),71,GROUP STAGE (FIRST ROUND),FRG,Chile,1982_SPAIN_FS.htm
+44182,20-06-1982 (17:15 h),,Charles Corver (NED),San MamÃ©s (Bilbao),72,GROUP STAGE (FIRST ROUND),England,Czechoslovakia,1982_SPAIN_FS.htm
+47500,20-06-1982 (21:00 h),,Henning Lund-SÃ¸rensen (DEN),Luis Casanova (Valencia),73,GROUP STAGE (FIRST ROUND),Spain,Yugoslavia,1982_SPAIN_FS.htm
+22000,21-06-1982 (17:15 h),,Tony BoÅ¡koviÄ (AUS),Carlos Tartiere (Oviedo),74,GROUP STAGE (FIRST ROUND),Algeria,Austria,1982_SPAIN_FS.htm
+30043,21-06-1982 (17:15 h),,Miroslav Stupar (USSR),Nuevo JosÃ© Zorrilla (Valladolid),75,GROUP STAGE (FIRST ROUND),France,Kuwait,1982_SPAIN_FS.htm
+15000,21-06-1982 (21:00 h),,Chan Tam-Sun (HKG),La Romareda (Zaragoza),76,GROUP STAGE (FIRST ROUND),Honduras,Northern Ireland,1982_SPAIN_FS.htm
+16000,22-06-1982 (17:15 h),,Mario Rubio (MEX),Riazor (La CoruÃ±a),77,GROUP STAGE (FIRST ROUND),Poland,Peru,1982_SPAIN_FS.htm
+22000,22-06-1982 (21:00 h),,Clive White (ENG),Nuevo Estadio (Elche),78,GROUP STAGE (FIRST ROUND),Belgium,Hungary,1982_SPAIN_FS.htm
+30000,22-06-1982 (21:00 h),,Nicolae Rainea (ROM),La Rosaleda (MÃ¡laga),79,GROUP STAGE (FIRST ROUND),Soviet Union,Scotland,1982_SPAIN_FS.htm
 17000,23-06-1982 (17:15 h),,Bogdan Dochev (BUL),BalaÃ­dos (Vigo),80,GROUP STAGE (FIRST ROUND) ,Italy,Cameroon,1982_SPAIN_FS.htm
-18000,23-06-1982 (21:00 h),,Luis Barrancos (BOL),JosÃ© Rico PÃ©rez (Alicante),81,"GROUP STAGE (FIRST
-          ROUND)",Argentina,El Salvador,1982_SPAIN_FS.htm
-32000,23-06-1982 (21:00 h),,Damir MatovinoviÄ (YUG),Benito VillamarÃ­n (Sevilla),82,"GROUP STAGE (FIRST
-          ROUND)",Brazil,New Zealand,1982_SPAIN_FS.htm
-18000,24-06-1982 (17:15 h),,RÃ³mulo MÃ©ndez (GUA),Carlos Tartiere (Oviedo),83,"GROUP STAGE (FIRST
-          ROUND)",Algeria,Chile,1982_SPAIN_FS.htm
-28000,24-06-1982 (17:15 h),,Paolo Casarin (ITA),Nuevo JosÃ© Zorrilla (Valladolid),84,"GROUP STAGE (FIRST
-          ROUND)",France,Czechoslovakia,1982_SPAIN_FS.htm
-12000,24-06-1982 (21:00 h),,GastÃ³n Castro (CHI),La Romareda (Zaragoza),85,"GROUP STAGE (FIRST
-          ROUND)",Honduras,Yugoslavia,1982_SPAIN_FS.htm
-41000,25-06-1982 (17:15 h),,Robert Valentine (SCO),El MolinÃ³n (GijÃ³n),86,"GROUP STAGE (FIRST
-          ROUND)",FRG,Austria,1982_SPAIN_FS.htm
-31000,25-06-1982 (17:15 h),,Gilberto AristizÃ¡bal (COL),San MamÃ©s (Bilbao),87,"GROUP STAGE (FIRST
-          ROUND)",England,Kuwait,1982_SPAIN_FS.htm
-49562,25-06-1982 (21:00 h),,HÃ©ctor Ortiz (PAR),Luis Casanova (Valencia),88,"GROUP STAGE (FIRST
-          ROUND)",Northern Ireland,Spain,1982_SPAIN_FS.htm
-30000,28-06-1982 (17:15 h),,KÃ¡roly Palotai (HUN),Vicente CalderÃ³n (Madrid),89,"GROUP STAGE (SECOND
-          ROUND)",Austria,France,1982_SPAIN_FS.htm
-30000,28-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Camp Nou (Barcelona),90,"GROUP STAGE (SECOND
-          ROUND)",Poland,Belgium,1982_SPAIN_FS.htm
-39000,29-06-1982 (17:15 h),,Nicolae Rainea (ROM),SarriÃ¡ (Barcelona),91,"GROUP STAGE (SECOND
-          ROUND)",Italy,Argentina,1982_SPAIN_FS.htm
-75000,29-06-1982 (21:00 h),,Arnaldo CÃ©sar Coelho (BRA),Santiago BernabÃ©u (Madrid),92,"GROUP STAGE (SECOND
-          ROUND)",FRG,England,1982_SPAIN_FS.htm
-24000,1-07-1982 (17:15 h),,Adolf Prokop (GDR),Vicente CalderÃ³n (Madrid),93,"GROUP STAGE (SECOND
-          ROUND)",Austria,Northern Ireland,1982_SPAIN_FS.htm
-25000,1-07-1982 (21:00 h),,Michel Vautrot (FRA),Camp Nou (Barcelona),94,"GROUP STAGE (SECOND
-          ROUND)",Belgium,Soviet Union,1982_SPAIN_FS.htm
-44000,2-07-1982 (17:15 h),,Mario Rubio (MEX),SarriÃ¡ (Barcelona),95,"GROUP STAGE (SECOND
-          ROUND)",Argentina,Brazil,1982_SPAIN_FS.htm
-90089,2-07-1982 (21:00 h),,Paolo Casarin (ITA),Santiago BernabÃ©u (Madrid),96,"GROUP STAGE (SECOND
-          ROUND)",FRG,Spain,1982_SPAIN_FS.htm
-30000,4-07-1982 (17:15 h),,Alojzy Jarguz (POL),Vicente CalderÃ³n (Madrid),97,"GROUP STAGE (SECOND
-          ROUND)",France,Northern Ireland,1982_SPAIN_FS.htm
-45000,4-07-1982 (21:00 h),,Robert Valentine (SCO),Camp Nou (Barcelona),98,"GROUP STAGE (SECOND
-          ROUND)",Poland,Soviet Union,1982_SPAIN_FS.htm
-44000,5-07-1982 (17:15 h),,Abraham Klein (ISR),SarriÃ¡ (Barcelona),99,"GROUP STAGE (SECOND
-          ROUND)",Italy,Brazil,1982_SPAIN_FS.htm
-65000,5-07-1982 (21:00 h),,Alexis Ponnet (BEL),Santiago BernabÃ©u (Madrid),100,"GROUP STAGE (SECOND
-          ROUND)",Spain,England,1982_SPAIN_FS.htm
+18000,23-06-1982 (21:00 h),,Luis Barrancos (BOL),JosÃ© Rico PÃ©rez (Alicante),81,GROUP STAGE (FIRST ROUND),Argentina,El Salvador,1982_SPAIN_FS.htm
+32000,23-06-1982 (21:00 h),,Damir MatovinoviÄ (YUG),Benito VillamarÃ­n (Sevilla),82,GROUP STAGE (FIRST ROUND),Brazil,New Zealand,1982_SPAIN_FS.htm
+18000,24-06-1982 (17:15 h),,RÃ³mulo MÃ©ndez (GUA),Carlos Tartiere (Oviedo),83,GROUP STAGE (FIRST ROUND),Algeria,Chile,1982_SPAIN_FS.htm
+28000,24-06-1982 (17:15 h),,Paolo Casarin (ITA),Nuevo JosÃ© Zorrilla (Valladolid),84,GROUP STAGE (FIRST ROUND),France,Czechoslovakia,1982_SPAIN_FS.htm
+12000,24-06-1982 (21:00 h),,GastÃ³n Castro (CHI),La Romareda (Zaragoza),85,GROUP STAGE (FIRST ROUND),Honduras,Yugoslavia,1982_SPAIN_FS.htm
+41000,25-06-1982 (17:15 h),,Robert Valentine (SCO),El MolinÃ³n (GijÃ³n),86,GROUP STAGE (FIRST ROUND),FRG,Austria,1982_SPAIN_FS.htm
+31000,25-06-1982 (17:15 h),,Gilberto AristizÃ¡bal (COL),San MamÃ©s (Bilbao),87,GROUP STAGE (FIRST ROUND),England,Kuwait,1982_SPAIN_FS.htm
+49562,25-06-1982 (21:00 h),,HÃ©ctor Ortiz (PAR),Luis Casanova (Valencia),88,GROUP STAGE (FIRST ROUND),Northern Ireland,Spain,1982_SPAIN_FS.htm
+30000,28-06-1982 (17:15 h),,KÃ¡roly Palotai (HUN),Vicente CalderÃ³n (Madrid),89,GROUP STAGE (SECOND ROUND),Austria,France,1982_SPAIN_FS.htm
+30000,28-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Camp Nou (Barcelona),90,GROUP STAGE (SECOND ROUND),Poland,Belgium,1982_SPAIN_FS.htm
+39000,29-06-1982 (17:15 h),,Nicolae Rainea (ROM),SarriÃ¡ (Barcelona),91,GROUP STAGE (SECOND ROUND),Italy,Argentina,1982_SPAIN_FS.htm
+75000,29-06-1982 (21:00 h),,Arnaldo CÃ©sar Coelho (BRA),Santiago BernabÃ©u (Madrid),92,GROUP STAGE (SECOND ROUND),FRG,England,1982_SPAIN_FS.htm
+24000,1-07-1982 (17:15 h),,Adolf Prokop (GDR),Vicente CalderÃ³n (Madrid),93,GROUP STAGE (SECOND ROUND),Austria,Northern Ireland,1982_SPAIN_FS.htm
+25000,1-07-1982 (21:00 h),,Michel Vautrot (FRA),Camp Nou (Barcelona),94,GROUP STAGE (SECOND ROUND),Belgium,Soviet Union,1982_SPAIN_FS.htm
+44000,2-07-1982 (17:15 h),,Mario Rubio (MEX),SarriÃ¡ (Barcelona),95,GROUP STAGE (SECOND ROUND),Argentina,Brazil,1982_SPAIN_FS.htm
+90089,2-07-1982 (21:00 h),,Paolo Casarin (ITA),Santiago BernabÃ©u (Madrid),96,GROUP STAGE (SECOND ROUND),FRG,Spain,1982_SPAIN_FS.htm
+30000,4-07-1982 (17:15 h),,Alojzy Jarguz (POL),Vicente CalderÃ³n (Madrid),97,GROUP STAGE (SECOND ROUND),France,Northern Ireland,1982_SPAIN_FS.htm
+45000,4-07-1982 (21:00 h),,Robert Valentine (SCO),Camp Nou (Barcelona),98,GROUP STAGE (SECOND ROUND),Poland,Soviet Union,1982_SPAIN_FS.htm
+44000,5-07-1982 (17:15 h),,Abraham Klein (ISR),SarriÃ¡ (Barcelona),99,GROUP STAGE (SECOND ROUND),Italy,Brazil,1982_SPAIN_FS.htm
+65000,5-07-1982 (21:00 h),,Alexis Ponnet (BEL),Santiago BernabÃ©u (Madrid),100,GROUP STAGE (SECOND ROUND),Spain,England,1982_SPAIN_FS.htm
 55000,8-07-1982 (17:15 h),,Juan Daniel Cardellino (URU),Camp Nou (Barcelona),101,1/2 FINAL,Poland,Italy,1982_SPAIN_FS.htm
 71000,8-07-1982 (21:00 h),0-1 (Giresse); 1-1 (Kaltz) / 1-2 (AmorÃ³s); 2-2 (Breitner) / 2-3 (Rocheteau); 2-3 (Stielike [saved]) / 2-3 (Six [saved]); 3-3 (Littbarski) / 3-4 (Platini); 4-4 (Rummenigge) // [decisive shots] 4-4 (Bossis [saved]); 5-4 (Hrubesch),Charles Corver (NED),RamÃ³n SÃ¡nchez PizjuÃ¡n (Sevilla),102,1/2 FINAL,FRG,France,1982_SPAIN_FS.htm
 28000,10-07-1982 (20:00 h),,AntÃ³nio JosÃ© da Silva Garrido (POR),JosÃ© Rico PÃ©rez (Alicante),103,PLACES 3-4,Poland,France,1982_SPAIN_FS.htm
@@ -524,78 +477,42 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),MaracanÃ£ (Rio de Janeiro),200,FINAL,WINNE
 62628,4-07-1990 (20:00 h),0-1 (Lineker); 1-1 (Brehme) / 1-2 (Beardsley); 2-2 (MatthÃ¤us) / 2-3 (Platt); 3-3 (Riedle) / 3-3 (Pearce [saved]); 4-3 (Thon) / 4-3 (Waddle [out]),JosÃ© Roberto Wright (BRA),Stadio delle Alpi (Torino),476,1/2 FINAL,FRG,England,1990_ITALY_FS.htm
 51426,7-07-1990 (20:00 h),,JoÃ«l Quiniou (FRA),San Nicola (Bari),477,PLACES 3-4,Italy,England,1990_ITALY_FS.htm
 73603,8-07-1990 (20:00 h),,Edgardo Codesal (MEX),Stadio Olimpico (Roma),478,FINAL,FRG,Argentina,1990_ITALY_FS.htm
-67579,1-06-1978 (15:00 h),,Ãngel Norberto Coerezza (ARG),Estadio Monumental (Buenos Aires),479,"GROUP STAGE (FIRST
-            ROUND)",FRG,Poland,1978_ARGENTINA_FS.htm
-42653,2-06-1978 (13:45 h),,Nicolae Rainea (ROM),JosÃ© MarÃ­a Minella (Mar del Plata),480,"GROUP STAGE (FIRST
-            ROUND)",Italy,France,1978_ARGENTINA_FS.htm
-17396,2-06-1978 (16:45 h),,John Gordon (SCO),El Gigante de Arroyito (Rosario),481,"GROUP STAGE (FIRST
-            ROUND)",Tunisia,Mexico,1978_ARGENTINA_FS.htm
-71615,2-06-1978 (19:15 h),,AntÃ³nio JosÃ© da Silva Garrido (POR),Estadio Monumental (Buenos Aires),482,"GROUP STAGE (FIRST
-            ROUND)",Argentina,Hungary,1978_ARGENTINA_FS.htm
-40841,3-06-1978 (13:45 h),,KÃ¡roly Palotai (HUN),JosÃ© Amalfitani (Buenos Aires),483,"GROUP STAGE (FIRST
-            ROUND)",Austria,Spain,1978_ARGENTINA_FS.htm
-38618,3-06-1978 (13:45 h),,Clive Thomas (WAL),JosÃ© MarÃ­a Minella (Mar del Plata),484,"GROUP STAGE (FIRST
-            ROUND)",Sweden,Brazil,1978_ARGENTINA_FS.htm
-37927,3-06-1978 (16:45 h),,Ulf Eriksson (SWE),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),485,"GROUP STAGE (FIRST
-            ROUND)",Peru,Scotland,1978_ARGENTINA_FS.htm
-33431,3-06-1978 (16:45 h),,Alfonso GonzÃ¡lez Archundia (MEX),Malvinas Argentinas (Mendoza),486,"GROUP STAGE (FIRST
-            ROUND)",Netherlands,Iran,1978_ARGENTINA_FS.htm
-26533,6-06-1978 (13:45 h),,RamÃ³n Barreto (URU),JosÃ© MarÃ­a Minella (Mar del Plata),487,"GROUP STAGE (FIRST
-            ROUND)",Italy,Hungary,1978_ARGENTINA_FS.htm
-35258,6-06-1978 (16:45 h),,Farouk Bouzo (SYR),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),488,"GROUP STAGE (FIRST
-            ROUND)",FRG,Mexico,1978_ARGENTINA_FS.htm
-9624,6-06-1978 (16:45 h),,Ãngel Franco MartÃ­nez (SPA),El Gigante de Arroyito (Rosario),489,"GROUP STAGE (FIRST
-            ROUND)",Poland,Tunisia,1978_ARGENTINA_FS.htm
-71666,6-06-1978 (19:15 h),,Jean Dubach (SWI),Estadio Monumental (Buenos Aires),490,"GROUP STAGE (FIRST
-            ROUND)",Argentina,France,1978_ARGENTINA_FS.htm
-41424,7-06-1978 (13:45 h),,Charles Corver (NED),JosÃ© Amalfitani (Buenos Aires),491,"GROUP STAGE (FIRST
-            ROUND)",Austria,Sweden,1978_ARGENTINA_FS.htm
-34771,7-06-1978 (13:45 h),,Sergio Gonella (ITA),JosÃ© MarÃ­a Minella (Mar del Plata),492,"GROUP STAGE (FIRST
-            ROUND)",Brazil,Spain,1978_ARGENTINA_FS.htm
-7938,7-06-1978 (16:45 h),,Youssou NâDiaye (SEN),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),493,"GROUP STAGE (FIRST
-            ROUND)",Scotland,Iran,1978_ARGENTINA_FS.htm
-28125,7-06-1978 (16:45 h),,Adolf Prokop (GDR),Malvinas Argentinas (Mendoza),494,"GROUP STAGE (FIRST
-            ROUND)",Netherlands,Peru,1978_ARGENTINA_FS.htm
-23127,10-06-1978 (13:45 h),,Arnaldo CÃ©sar Coelho (BRA),JosÃ© MarÃ­a Minella (Mar del Plata),495,"GROUP STAGE (FIRST
-            ROUND)",France,Hungary,1978_ARGENTINA_FS.htm
-30667,10-06-1978 (16:45 h),,CÃ©sar Augusto Orosco (PER),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),496,"GROUP STAGE (FIRST
-            ROUND)",FRG,Tunisia,1978_ARGENTINA_FS.htm
-22651,10-06-1978 (16:45 h),,Jaffar Namdar (IRN),El Gigante de Arroyito (Rosario),497,"GROUP STAGE (FIRST
-            ROUND)",Poland,Mexico,1978_ARGENTINA_FS.htm
-71772,10-06-1978 (19:15 h),,Abraham Klein (ISR),Estadio Monumental (Buenos Aires),498,"GROUP STAGE (FIRST
-            ROUND)",Italy,Argentina,1978_ARGENTINA_FS.htm
-42132,11-06-1978 (13:45 h),,Ferdinand Biwersi (FRG),JosÃ© Amalfitani (Buenos Aires),499,"GROUP STAGE (FIRST
-            ROUND)",Spain,Sweden,1978_ARGENTINA_FS.htm
-35221,11-06-1978 (13:45 h),,Robert Wurtz (FRA),JosÃ© MarÃ­a Minella (Mar del Plata),500,"GROUP STAGE (FIRST
-            ROUND)",Brazil,Austria,1978_ARGENTINA_FS.htm
-21262,11-06-1978 (16:45 h),,Alojzy Jarguz (POL),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),501,"GROUP STAGE (FIRST
-            ROUND)",Peru,Iran,1978_ARGENTINA_FS.htm
-35130,11-06-1978 (16:45 h),,Erich Linemayr (AUT),Malvinas Argentinas (Mendoza),502,"GROUP STAGE (FIRST
-            ROUND)",Scotland,Netherlands,1978_ARGENTINA_FS.htm
-25050,14-06-1978 (13:45 h),,John Gordon (SCO),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),503,"GROUP STAGE (SECOND
-            ROUND)",Netherlands,Austria,1978_ARGENTINA_FS.htm
-67547,14-06-1978 (13:45 h),,DuÅ¡an MaksimoviÄ (YUG),Estadio Monumental (Buenos Aires),504,"GROUP STAGE (SECOND
-            ROUND)",FRG,Italy,1978_ARGENTINA_FS.htm
-31278,14-06-1978 (16:45 h),,Nicolae Rainea (ROM),Malvinas Argentinas (Mendoza),505,"GROUP STAGE (SECOND
-            ROUND)",Brazil,Peru,1978_ARGENTINA_FS.htm
-37091,14-06-1978 (19:15 h),,Ulf Eriksson (SWE),El Gigante de Arroyito (Rosario),506,"GROUP STAGE (SECOND
-            ROUND)",Argentina,Poland,1978_ARGENTINA_FS.htm
-35288,18-06-1978 (13:45 h),,Patrick Partridge (ENG),Malvinas Argentinas (Mendoza),507,"GROUP STAGE (SECOND
-            ROUND)",Poland,Peru,1978_ARGENTINA_FS.htm
-40750,18-06-1978 (16:45 h),,RamÃ³n Barreto (URU),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),508,"GROUP STAGE (SECOND
-            ROUND)",FRG,Netherlands,1978_ARGENTINA_FS.htm
-66695,18-06-1978 (16:45 h),,Francis Rion (BEL),Estadio Monumental (Buenos Aires),509,"GROUP STAGE (SECOND
-            ROUND)",Italy,Austria,1978_ARGENTINA_FS.htm
-37326,18-06-1978 (19:45 h),,KÃ¡roly Palotai (HUN),El Gigante de Arroyito (Rosario),510,"GROUP STAGE (SECOND
-            ROUND)",Argentina,Brazil,1978_ARGENTINA_FS.htm
-38318,21-06-1978 (13:45 h),,Abraham Klein (ISR),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),511,"GROUP STAGE (SECOND
-            ROUND)",Austria,FRG,1978_ARGENTINA_FS.htm
-67433,21-06-1978 (13:45 h),,Ãngel Franco MartÃ­nez (SPA),Estadio Monumental (Buenos Aires),512,"GROUP STAGE (SECOND
-            ROUND)",Netherlands,Italy,1978_ARGENTINA_FS.htm
-39586,21-06-1978 (16:45 h),,Juan Silvagno (CHI),Malvinas Argentinas (Mendoza),513,"GROUP STAGE (SECOND
-            ROUND)",Brazil,Poland,1978_ARGENTINA_FS.htm
-37326,21-06-1978 (19:15 h),,Robert Wurtz (FRA),El Gigante de Arroyito (Rosario),514,"GROUP STAGE (SECOND
-            ROUND)",Argentina,Peru,1978_ARGENTINA_FS.htm
+67579,1-06-1978 (15:00 h),,Ãngel Norberto Coerezza (ARG),Estadio Monumental (Buenos Aires),479,GROUP STAGE (FIRST ROUND),FRG,Poland,1978_ARGENTINA_FS.htm
+42653,2-06-1978 (13:45 h),,Nicolae Rainea (ROM),JosÃ© MarÃ­a Minella (Mar del Plata),480,GROUP STAGE (FIRST ROUND),Italy,France,1978_ARGENTINA_FS.htm
+17396,2-06-1978 (16:45 h),,John Gordon (SCO),El Gigante de Arroyito (Rosario),481,GROUP STAGE (FIRST ROUND),Tunisia,Mexico,1978_ARGENTINA_FS.htm
+71615,2-06-1978 (19:15 h),,AntÃ³nio JosÃ© da Silva Garrido (POR),Estadio Monumental (Buenos Aires),482,GROUP STAGE (FIRST ROUND),Argentina,Hungary,1978_ARGENTINA_FS.htm
+40841,3-06-1978 (13:45 h),,KÃ¡roly Palotai (HUN),JosÃ© Amalfitani (Buenos Aires),483,GROUP STAGE (FIRST ROUND),Austria,Spain,1978_ARGENTINA_FS.htm
+38618,3-06-1978 (13:45 h),,Clive Thomas (WAL),JosÃ© MarÃ­a Minella (Mar del Plata),484,GROUP STAGE (FIRST ROUND),Sweden,Brazil,1978_ARGENTINA_FS.htm
+37927,3-06-1978 (16:45 h),,Ulf Eriksson (SWE),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),485,GROUP STAGE (FIRST ROUND),Peru,Scotland,1978_ARGENTINA_FS.htm
+33431,3-06-1978 (16:45 h),,Alfonso GonzÃ¡lez Archundia (MEX),Malvinas Argentinas (Mendoza),486,GROUP STAGE (FIRST ROUND),Netherlands,Iran,1978_ARGENTINA_FS.htm
+26533,6-06-1978 (13:45 h),,RamÃ³n Barreto (URU),JosÃ© MarÃ­a Minella (Mar del Plata),487,GROUP STAGE (FIRST ROUND),Italy,Hungary,1978_ARGENTINA_FS.htm
+35258,6-06-1978 (16:45 h),,Farouk Bouzo (SYR),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),488,GROUP STAGE (FIRST ROUND),FRG,Mexico,1978_ARGENTINA_FS.htm
+9624,6-06-1978 (16:45 h),,Ãngel Franco MartÃ­nez (SPA),El Gigante de Arroyito (Rosario),489,GROUP STAGE (FIRST ROUND),Poland,Tunisia,1978_ARGENTINA_FS.htm
+71666,6-06-1978 (19:15 h),,Jean Dubach (SWI),Estadio Monumental (Buenos Aires),490,GROUP STAGE (FIRST ROUND),Argentina,France,1978_ARGENTINA_FS.htm
+41424,7-06-1978 (13:45 h),,Charles Corver (NED),JosÃ© Amalfitani (Buenos Aires),491,GROUP STAGE (FIRST ROUND),Austria,Sweden,1978_ARGENTINA_FS.htm
+34771,7-06-1978 (13:45 h),,Sergio Gonella (ITA),JosÃ© MarÃ­a Minella (Mar del Plata),492,GROUP STAGE (FIRST ROUND),Brazil,Spain,1978_ARGENTINA_FS.htm
+7938,7-06-1978 (16:45 h),,Youssou NâDiaye (SEN),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),493,GROUP STAGE (FIRST ROUND),Scotland,Iran,1978_ARGENTINA_FS.htm
+28125,7-06-1978 (16:45 h),,Adolf Prokop (GDR),Malvinas Argentinas (Mendoza),494,GROUP STAGE (FIRST ROUND),Netherlands,Peru,1978_ARGENTINA_FS.htm
+23127,10-06-1978 (13:45 h),,Arnaldo CÃ©sar Coelho (BRA),JosÃ© MarÃ­a Minella (Mar del Plata),495,GROUP STAGE (FIRST ROUND),France,Hungary,1978_ARGENTINA_FS.htm
+30667,10-06-1978 (16:45 h),,CÃ©sar Augusto Orosco (PER),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),496,GROUP STAGE (FIRST ROUND),FRG,Tunisia,1978_ARGENTINA_FS.htm
+22651,10-06-1978 (16:45 h),,Jaffar Namdar (IRN),El Gigante de Arroyito (Rosario),497,GROUP STAGE (FIRST ROUND),Poland,Mexico,1978_ARGENTINA_FS.htm
+71772,10-06-1978 (19:15 h),,Abraham Klein (ISR),Estadio Monumental (Buenos Aires),498,GROUP STAGE (FIRST ROUND),Italy,Argentina,1978_ARGENTINA_FS.htm
+42132,11-06-1978 (13:45 h),,Ferdinand Biwersi (FRG),JosÃ© Amalfitani (Buenos Aires),499,GROUP STAGE (FIRST ROUND),Spain,Sweden,1978_ARGENTINA_FS.htm
+35221,11-06-1978 (13:45 h),,Robert Wurtz (FRA),JosÃ© MarÃ­a Minella (Mar del Plata),500,GROUP STAGE (FIRST ROUND),Brazil,Austria,1978_ARGENTINA_FS.htm
+21262,11-06-1978 (16:45 h),,Alojzy Jarguz (POL),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),501,GROUP STAGE (FIRST ROUND),Peru,Iran,1978_ARGENTINA_FS.htm
+35130,11-06-1978 (16:45 h),,Erich Linemayr (AUT),Malvinas Argentinas (Mendoza),502,GROUP STAGE (FIRST ROUND),Scotland,Netherlands,1978_ARGENTINA_FS.htm
+25050,14-06-1978 (13:45 h),,John Gordon (SCO),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),503,GROUP STAGE (SECOND ROUND),Netherlands,Austria,1978_ARGENTINA_FS.htm
+67547,14-06-1978 (13:45 h),,DuÅ¡an MaksimoviÄ (YUG),Estadio Monumental (Buenos Aires),504,GROUP STAGE (SECOND ROUND),FRG,Italy,1978_ARGENTINA_FS.htm
+31278,14-06-1978 (16:45 h),,Nicolae Rainea (ROM),Malvinas Argentinas (Mendoza),505,GROUP STAGE (SECOND ROUND),Brazil,Peru,1978_ARGENTINA_FS.htm
+37091,14-06-1978 (19:15 h),,Ulf Eriksson (SWE),El Gigante de Arroyito (Rosario),506,GROUP STAGE (SECOND ROUND),Argentina,Poland,1978_ARGENTINA_FS.htm
+35288,18-06-1978 (13:45 h),,Patrick Partridge (ENG),Malvinas Argentinas (Mendoza),507,GROUP STAGE (SECOND ROUND),Poland,Peru,1978_ARGENTINA_FS.htm
+40750,18-06-1978 (16:45 h),,RamÃ³n Barreto (URU),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),508,GROUP STAGE (SECOND ROUND),FRG,Netherlands,1978_ARGENTINA_FS.htm
+66695,18-06-1978 (16:45 h),,Francis Rion (BEL),Estadio Monumental (Buenos Aires),509,GROUP STAGE (SECOND ROUND),Italy,Austria,1978_ARGENTINA_FS.htm
+37326,18-06-1978 (19:45 h),,KÃ¡roly Palotai (HUN),El Gigante de Arroyito (Rosario),510,GROUP STAGE (SECOND ROUND),Argentina,Brazil,1978_ARGENTINA_FS.htm
+38318,21-06-1978 (13:45 h),,Abraham Klein (ISR),Estadio OlÃ­mpico âChateau Carrerasâ (CÃ³rdoba),511,GROUP STAGE (SECOND ROUND),Austria,FRG,1978_ARGENTINA_FS.htm
+67433,21-06-1978 (13:45 h),,Ãngel Franco MartÃ­nez (SPA),Estadio Monumental (Buenos Aires),512,GROUP STAGE (SECOND ROUND),Netherlands,Italy,1978_ARGENTINA_FS.htm
+39586,21-06-1978 (16:45 h),,Juan Silvagno (CHI),Malvinas Argentinas (Mendoza),513,GROUP STAGE (SECOND ROUND),Brazil,Poland,1978_ARGENTINA_FS.htm
+37326,21-06-1978 (19:15 h),,Robert Wurtz (FRA),El Gigante de Arroyito (Rosario),514,GROUP STAGE (SECOND ROUND),Argentina,Peru,1978_ARGENTINA_FS.htm
 69659,24-06-1978 (15:00 h),,Abraham Klein (ISR),Estadio Monumental (Buenos Aires),515,PLACES 3-4,Brazil,Italy,1978_ARGENTINA_FS.htm
 71483,25-06-1978 (15:00 h),,Sergio Gonella (ITA),Estadio Monumental (Buenos Aires),516,FINAL,Argentina,Netherlands,1978_ARGENTINA_FS.htm
 64950,9-06-2006 (18:00 h),,Horacio Marcelo Elizondo (ARG),Allianz Arena (MÃ¼nchen),517,GROUP STAGE,Germany,Costa Rica,2006_GERMANY_FS.htm
@@ -739,9 +656,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),MaracanÃ£ (Rio de Janeiro),200,FINAL,WINNE
 27967,24-06-2010 (20:30 h),,Jerome Damon (SAF),Royal Bafokeng Stadium (Rustenburg),655,GROUP STAGE,Denmark,Japan,2010_SA_FS.htm
 63093,24-06-2010 (20:30 h),,Pablo Pozo (CHI),Cape Town Stadium (Cape Town),656,GROUP STAGE,Cameroon,Netherlands,2010_SA_FS.htm
 62712,25-06-2010 (16:00 h),,Benito Armando Archundia (MEX),Moses Mabhida Stadium (Durban),657,GROUP STAGE,Portugal,Brazil,2010_SA_FS.htm
-34763,25-06-2010 (16:00 h),,Alberto Undiano Mallenco (SPA),Mbombela Stadium (Nelspruit),658,"        
-          GROUP STAGE
-  ",North Korea,Ivory Coast,2010_SA_FS.htm
+34763,25-06-2010 (16:00 h),,Alberto Undiano Mallenco (SPA),Mbombela Stadium (Nelspruit),658,GROUP STAGE,North Korea,Ivory Coast,2010_SA_FS.htm
 41958,25-06-2010 (20:30 h),,Marco Antonio RodrÃ­guez (MEX),Loftus Versfeld Stadium (Pretoria),659,GROUP STAGE,Chile,Spain,2010_SA_FS.htm
 28042,25-06-2010 (20:30 h),,HÃ©ctor Walter Baldassi (ARG),Free State Stadium (Bloemfontein),660,GROUP STAGE,Switzerland,Honduras,2010_SA_FS.htm
 30597,26-06-2010 (16:00 h),,Wolfgang Stark (GER),Nelson Mandela Bay Stadium (Port Elizabeth),661,1/8 FINAL,Uruguay,South Korea,2010_SA_FS.htm
@@ -792,78 +707,42 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),MaracanÃ£ (Rio de Janeiro),200,FINAL,WINNE
 5890,13-06-1962 (14:30 h),,Gottfried Dienst (SWI),Sausalito (ViÃ±a del Mar),706,1/2 FINAL,Czechoslovakia,Yugoslavia,1962_CHILE_FS.htm
 66697,16-06-1962 (14:30 h),,Juan GardeazÃ¡bal (SPA),Estadio Nacional (Santiago de Chile),707,PLACES 3-4,Chile,Yugoslavia,1962_CHILE_FS.htm
 68679,17-06-1962 (14:30 h),,Nikolaj Latishev (USSR),Estadio Nacional (Santiago de Chile),708,FINAL,Brazil,Czechoslovakia,1962_CHILE_FS.htm
-61500,13-06-1974 (17:00 h),,Rudolf Scheurer (SWI),Waldstadion (Frankfurt am Main),709,"GROUP STAGE (FIRST
-          ROUND)",Brazil,Yugoslavia,1974_FRG_FS.htm
-83168,14-06-1974 (16:30 h),,DoÄan Babacan (TUR),Olympiastadion (West-Berlin),710,"GROUP STAGE (FIRST
-          ROUND)",FRG,Chile,1974_FRG_FS.htm
-18180,14-06-1974 (19:30 h),,Youssou NâDiaye (SEN),Volksparkstadion (Hamburg),711,"GROUP STAGE (FIRST
-          ROUND)",GDR,Australia,1974_FRG_FS.htm
-25800,14-06-1974 (19:30 h),,Gerhard Schulenburg (FRG),Westfalenstadion (Dortmund),712,"GROUP STAGE (FIRST
-          ROUND)",Zaire,Scotland,1974_FRG_FS.htm
-23800,15-06-1974 (16:00 h),,Ãdison PÃ©rez NÃºÃ±ez (PER),Rheinstadion (DÃ¼sseldorf),713,"GROUP STAGE (FIRST
-          ROUND)",Sweden,Bulgaria,1974_FRG_FS.htm
-53700,15-06-1974 (16:00 h),,KÃ¡roly Palotai (HUN),Niedersachsenstadion (Hannover),714,"GROUP STAGE (FIRST
-          ROUND)",Uruguay,Netherlands,1974_FRG_FS.htm
-51100,15-06-1974 (18:00 h),,Vicente Llobregat (VEN),Olympiastadion (MÃ¼nchen),715,"GROUP STAGE (FIRST
-          ROUND)",Italy,Haiti,1974_FRG_FS.htm
-31500,15-06-1974 (18:00 h),,Clive Thomas (WAL),Neckarstadion (Stuttgart),716,"GROUP STAGE (FIRST
-          ROUND)",Poland,Argentina,1974_FRG_FS.htm
-53300,18-06-1974 (16:00 h),,Mustafa Kamel (EGY),Volksparkstadion (Hamburg),717,"GROUP STAGE (FIRST
-          ROUND)",Australia,FRG,1974_FRG_FS.htm
-27300,18-06-1974 (19:30 h),,Aurelio Angonese (ITA),Olympiastadion (West-Berlin),718,"GROUP STAGE (FIRST
-          ROUND)",Chile,GDR,1974_FRG_FS.htm
-31700,18-06-1974 (19:30 h),,Omar Delgado (COL),Parkstadion (Gelsenkirchen),719,"GROUP STAGE (FIRST
-          ROUND)",Yugoslavia,Zaire,1974_FRG_FS.htm
-62000,18-06-1974 (19:30 h),,Arie van Gemert (NED),Waldstadion (Frankfurt am Main),720,"GROUP STAGE (FIRST
-          ROUND)",Scotland,Brazil,1974_FRG_FS.htm
-53700,19-06-1974 (19:30 h),,Werner Winsemann (CAN),Westfalenstadion (Dortmund),721,"GROUP STAGE (FIRST
-          ROUND)",Netherlands,Sweden,1974_FRG_FS.htm
-13400,19-06-1974 (19:30 h),,Jack Taylor (ENG),Niedersachsenstadion (Hannover),722,"GROUP STAGE (FIRST
-          ROUND)",Bulgaria,Uruguay,1974_FRG_FS.htm
-25400,19-06-1974 (19:30 h),,Govindasamy Suppiah (SIN),Olympiastadion (MÃ¼nchen),723,"GROUP STAGE (FIRST
-          ROUND)",Haiti,Poland,1974_FRG_FS.htm
-68900,19-06-1974 (19:30 h),,Pavel Kazakov (USSR),Neckarstadion (Stuttgart),724,"GROUP STAGE (FIRST
-          ROUND)",Argentina,Italy,1974_FRG_FS.htm
-14681,22-06-1974 (16:00 h),,Jaffar Namdar (IRN),Olympiastadion (West-Berlin),725,"GROUP STAGE (FIRST
-          ROUND)",Australia,Chile,1974_FRG_FS.htm
-36200,22-06-1974 (18:00 h),,Nicolae Rainea (ROM),Parkstadion (Gelsenkirchen),726,"GROUP STAGE (FIRST
-          ROUND)",Zaire,Brazil,1974_FRG_FS.htm
-56000,22-06-1974 (18:00 h),,Alfonso GonzÃ¡lez Archundia (MEX),Waldstadion (Frankfurt am Main),727,"GROUP STAGE (FIRST
-          ROUND)",Scotland,Yugoslavia,1974_FRG_FS.htm
-60350,22-06-1974 (19:30 h),,RamÃ³n Barreto (URU),Volksparkstadion (Hamburg),728,"GROUP STAGE (FIRST
-          ROUND)",GDR,FRG,1974_FRG_FS.htm
-53300,23-06-1974 (16:00 h),,Tony BoÅ¡koviÄ (AUS),Westfalenstadion (Dortmund),729,"GROUP STAGE (FIRST
-          ROUND)",Bulgaria,Netherlands,1974_FRG_FS.htm
-28300,23-06-1974 (16:00 h),,Erich Linemayr (AUT),Rheinstadion (DÃ¼sseldorf),730,"GROUP STAGE (FIRST
-          ROUND)",Sweden,Uruguay,1974_FRG_FS.htm
-25900,23-06-1974 (16:00 h),,Pablo SÃ¡nchez IbÃ¡Ã±ez (SPA),Olympiastadion (MÃ¼nchen),731,"GROUP STAGE (FIRST
-          ROUND)",Argentina,Haiti,1974_FRG_FS.htm
-68900,23-06-1974 (16:00 h),,Hans-Joachim Weyland (FRG),Neckarstadion (Stuttgart),732,"GROUP STAGE (FIRST
-          ROUND)",Poland,Italy,1974_FRG_FS.htm
-66085,26-06-1974 (16:00 h),,Armando Marques (BRA),Rheinstadion (DÃ¼sseldorf),733,"GROUP STAGE (SECOND
-          ROUND)",Yugoslavia,FRG,1974_FRG_FS.htm
-55348,26-06-1974 (19:30 h),,Robert Davidson (SCO),Parkstadion (Gelsenkirchen),734,"GROUP STAGE (SECOND
-          ROUND)",Netherlands,Argentina,1974_FRG_FS.htm
-58463,26-06-1974 (19:30 h),,Clive Thomas (WAL),Niedersachsenstadion (Hannover),735,"GROUP STAGE (SECOND
-          ROUND)",Brazil,GDR,1974_FRG_FS.htm
-43755,26-06-1974 (19:30 h),,RamÃ³n Barreto (URU),Neckarstadion (Stuttgart),736,"GROUP STAGE (SECOND
-          ROUND)",Sweden,Poland,1974_FRG_FS.htm
-67148,30-06-1974 (16:00 h),,Rudolf Scheurer (SWI),Parkstadion (Gelsenkirchen),737,"GROUP STAGE (SECOND
-          ROUND)",GDR,Netherlands,1974_FRG_FS.htm
-39400,30-06-1974 (16:00 h),,Vital Loraux (BEL),Niedersachsenstadion (Hannover),738,"GROUP STAGE (SECOND
-          ROUND)",Argentina,Brazil,1974_FRG_FS.htm
-53200,30-06-1974 (16:00 h),,Rudolf GlÃ¶ckner (GDR),Waldstadion (Frankfurt am Main),739,"GROUP STAGE (SECOND
-          ROUND)",Poland,Yugoslavia,1974_FRG_FS.htm
-67861,30-06-1974 (19:30 h),,Pavel Kazakov (USSR),Rheinstadion (DÃ¼sseldorf),740,"GROUP STAGE (SECOND
-          ROUND)",FRG,Sweden,1974_FRG_FS.htm
-61249,3-07-1974 (16:00 h),,Erich Linemayr (AUT),Waldstadion (Frankfurt am Main),741,"GROUP STAGE (SECOND
-          ROUND)",Poland,FRG,1974_FRG_FS.htm
-52500,3-07-1974 (19:30 h),,Kurt Tschenscher (FRG),Westfalenstadion (Dortmund),742,"GROUP STAGE (SECOND
-          ROUND)",Netherlands,Brazil,1974_FRG_FS.htm
-53054,3-07-1974 (19:30 h),,Jack Taylor (ENG),Parkstadion (Gelsenkirchen),743,"GROUP STAGE (SECOND
-          ROUND)",Argentina,GDR,1974_FRG_FS.htm
-37700,3-07-1974 (19:30 h),,Luis Pestarino (ARG),Rheinstadion (DÃ¼sseldorf),744,"GROUP STAGE (SECOND
-          ROUND)",Sweden,Yugoslavia,1974_FRG_FS.htm
+61500,13-06-1974 (17:00 h),,Rudolf Scheurer (SWI),Waldstadion (Frankfurt am Main),709,GROUP STAGE (FIRST ROUND),Brazil,Yugoslavia,1974_FRG_FS.htm
+83168,14-06-1974 (16:30 h),,DoÄan Babacan (TUR),Olympiastadion (West-Berlin),710,GROUP STAGE (FIRST ROUND),FRG,Chile,1974_FRG_FS.htm
+18180,14-06-1974 (19:30 h),,Youssou NâDiaye (SEN),Volksparkstadion (Hamburg),711,GROUP STAGE (FIRST ROUND),GDR,Australia,1974_FRG_FS.htm
+25800,14-06-1974 (19:30 h),,Gerhard Schulenburg (FRG),Westfalenstadion (Dortmund),712,GROUP STAGE (FIRST ROUND),Zaire,Scotland,1974_FRG_FS.htm
+23800,15-06-1974 (16:00 h),,Ãdison PÃ©rez NÃºÃ±ez (PER),Rheinstadion (DÃ¼sseldorf),713,GROUP STAGE (FIRST ROUND),Sweden,Bulgaria,1974_FRG_FS.htm
+53700,15-06-1974 (16:00 h),,KÃ¡roly Palotai (HUN),Niedersachsenstadion (Hannover),714,GROUP STAGE (FIRST ROUND),Uruguay,Netherlands,1974_FRG_FS.htm
+51100,15-06-1974 (18:00 h),,Vicente Llobregat (VEN),Olympiastadion (MÃ¼nchen),715,GROUP STAGE (FIRST ROUND),Italy,Haiti,1974_FRG_FS.htm
+31500,15-06-1974 (18:00 h),,Clive Thomas (WAL),Neckarstadion (Stuttgart),716,GROUP STAGE (FIRST ROUND),Poland,Argentina,1974_FRG_FS.htm
+53300,18-06-1974 (16:00 h),,Mustafa Kamel (EGY),Volksparkstadion (Hamburg),717,GROUP STAGE (FIRST ROUND),Australia,FRG,1974_FRG_FS.htm
+27300,18-06-1974 (19:30 h),,Aurelio Angonese (ITA),Olympiastadion (West-Berlin),718,GROUP STAGE (FIRST ROUND),Chile,GDR,1974_FRG_FS.htm
+31700,18-06-1974 (19:30 h),,Omar Delgado (COL),Parkstadion (Gelsenkirchen),719,GROUP STAGE (FIRST ROUND),Yugoslavia,Zaire,1974_FRG_FS.htm
+62000,18-06-1974 (19:30 h),,Arie van Gemert (NED),Waldstadion (Frankfurt am Main),720,GROUP STAGE (FIRST ROUND),Scotland,Brazil,1974_FRG_FS.htm
+53700,19-06-1974 (19:30 h),,Werner Winsemann (CAN),Westfalenstadion (Dortmund),721,GROUP STAGE (FIRST ROUND),Netherlands,Sweden,1974_FRG_FS.htm
+13400,19-06-1974 (19:30 h),,Jack Taylor (ENG),Niedersachsenstadion (Hannover),722,GROUP STAGE (FIRST ROUND),Bulgaria,Uruguay,1974_FRG_FS.htm
+25400,19-06-1974 (19:30 h),,Govindasamy Suppiah (SIN),Olympiastadion (MÃ¼nchen),723,GROUP STAGE (FIRST ROUND),Haiti,Poland,1974_FRG_FS.htm
+68900,19-06-1974 (19:30 h),,Pavel Kazakov (USSR),Neckarstadion (Stuttgart),724,GROUP STAGE (FIRST ROUND),Argentina,Italy,1974_FRG_FS.htm
+14681,22-06-1974 (16:00 h),,Jaffar Namdar (IRN),Olympiastadion (West-Berlin),725,GROUP STAGE (FIRST ROUND),Australia,Chile,1974_FRG_FS.htm
+36200,22-06-1974 (18:00 h),,Nicolae Rainea (ROM),Parkstadion (Gelsenkirchen),726,GROUP STAGE (FIRST ROUND),Zaire,Brazil,1974_FRG_FS.htm
+56000,22-06-1974 (18:00 h),,Alfonso GonzÃ¡lez Archundia (MEX),Waldstadion (Frankfurt am Main),727,GROUP STAGE (FIRST ROUND),Scotland,Yugoslavia,1974_FRG_FS.htm
+60350,22-06-1974 (19:30 h),,RamÃ³n Barreto (URU),Volksparkstadion (Hamburg),728,GROUP STAGE (FIRST ROUND),GDR,FRG,1974_FRG_FS.htm
+53300,23-06-1974 (16:00 h),,Tony BoÅ¡koviÄ (AUS),Westfalenstadion (Dortmund),729,GROUP STAGE (FIRST ROUND),Bulgaria,Netherlands,1974_FRG_FS.htm
+28300,23-06-1974 (16:00 h),,Erich Linemayr (AUT),Rheinstadion (DÃ¼sseldorf),730,GROUP STAGE (FIRST ROUND),Sweden,Uruguay,1974_FRG_FS.htm
+25900,23-06-1974 (16:00 h),,Pablo SÃ¡nchez IbÃ¡Ã±ez (SPA),Olympiastadion (MÃ¼nchen),731,GROUP STAGE (FIRST ROUND),Argentina,Haiti,1974_FRG_FS.htm
+68900,23-06-1974 (16:00 h),,Hans-Joachim Weyland (FRG),Neckarstadion (Stuttgart),732,GROUP STAGE (FIRST ROUND),Poland,Italy,1974_FRG_FS.htm
+66085,26-06-1974 (16:00 h),,Armando Marques (BRA),Rheinstadion (DÃ¼sseldorf),733,GROUP STAGE (SECOND ROUND),Yugoslavia,FRG,1974_FRG_FS.htm
+55348,26-06-1974 (19:30 h),,Robert Davidson (SCO),Parkstadion (Gelsenkirchen),734,GROUP STAGE (SECOND ROUND),Netherlands,Argentina,1974_FRG_FS.htm
+58463,26-06-1974 (19:30 h),,Clive Thomas (WAL),Niedersachsenstadion (Hannover),735,GROUP STAGE (SECOND ROUND),Brazil,GDR,1974_FRG_FS.htm
+43755,26-06-1974 (19:30 h),,RamÃ³n Barreto (URU),Neckarstadion (Stuttgart),736,GROUP STAGE (SECOND ROUND),Sweden,Poland,1974_FRG_FS.htm
+67148,30-06-1974 (16:00 h),,Rudolf Scheurer (SWI),Parkstadion (Gelsenkirchen),737,GROUP STAGE (SECOND ROUND),GDR,Netherlands,1974_FRG_FS.htm
+39400,30-06-1974 (16:00 h),,Vital Loraux (BEL),Niedersachsenstadion (Hannover),738,GROUP STAGE (SECOND ROUND),Argentina,Brazil,1974_FRG_FS.htm
+53200,30-06-1974 (16:00 h),,Rudolf GlÃ¶ckner (GDR),Waldstadion (Frankfurt am Main),739,GROUP STAGE (SECOND ROUND),Poland,Yugoslavia,1974_FRG_FS.htm
+67861,30-06-1974 (19:30 h),,Pavel Kazakov (USSR),Rheinstadion (DÃ¼sseldorf),740,GROUP STAGE (SECOND ROUND),FRG,Sweden,1974_FRG_FS.htm
+61249,3-07-1974 (16:00 h),,Erich Linemayr (AUT),Waldstadion (Frankfurt am Main),741,GROUP STAGE (SECOND ROUND),Poland,FRG,1974_FRG_FS.htm
+52500,3-07-1974 (19:30 h),,Kurt Tschenscher (FRG),Westfalenstadion (Dortmund),742,GROUP STAGE (SECOND ROUND),Netherlands,Brazil,1974_FRG_FS.htm
+53054,3-07-1974 (19:30 h),,Jack Taylor (ENG),Parkstadion (Gelsenkirchen),743,GROUP STAGE (SECOND ROUND),Argentina,GDR,1974_FRG_FS.htm
+37700,3-07-1974 (19:30 h),,Luis Pestarino (ARG),Rheinstadion (DÃ¼sseldorf),744,GROUP STAGE (SECOND ROUND),Sweden,Yugoslavia,1974_FRG_FS.htm
 74100,6-07-1974 (16:00 h),,Aurelio Angonese (ITA),Olympiastadion (MÃ¼nchen),745,PLACES 3-4,Poland,Brazil,1974_FRG_FS.htm
 77833,7-07-1974 (16:00 h),,Jack Taylor (ENG),Olympiastadion (MÃ¼nchen),746,FINAL,FRG,Netherlands,1974_FRG_FS.htm
 62561,31-05-2002 (20:30 h),,Ali Mohammed Bujsaim (UAE),Seoul World Cup Gyeonggijang â Seoul World Cup Stadium (Seoul),747,GROUP STAGE,France,Senegal,2002_KJ_FS.htm
